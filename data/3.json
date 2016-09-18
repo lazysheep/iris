@@ -1,0 +1,4 @@
+[{
+    "h1": "action",
+    "p": "传入指令名，可在组件内由this._action得到，调用this.fire(this._action, {你的数据对象})"
+}]

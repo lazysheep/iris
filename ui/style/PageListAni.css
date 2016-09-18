@@ -1,0 +1,11 @@
+.ui-PageListAni-page {
+	position: absolute;
+	left: 0;
+	top: 0;
+	height: 100%;
+	width: 100%;
+	visibility: hidden;
+}
+.ui-PageListAni-page-show {
+	visibility: visible;
+}

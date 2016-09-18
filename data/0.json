@@ -1,0 +1,10 @@
+[{
+    "h1": "type",
+    "p": "ui组件"
+},{
+    "h1": "children",
+    "p": "子组件"
+},{
+    "h1": "route",
+    "p": "path 监听路由 ajaxData 异步请求数据"
+}]

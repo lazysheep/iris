@@ -1,0 +1,34 @@
+.ui-TopLeft {
+    position: relative;
+    height: 100%;
+}
+.ui-TopLeft-title {
+    font-size: 20px;
+    height: 50px;
+    line-height: 50px;
+}
+.ui-TopLeft-content {
+    position: absolute;
+    width: 100%;
+    top: 50px;
+    bottom: 0;
+}
+.ui-TopLeft-leftTitle {
+    position: absolute;
+    left: 0;
+    top: 0;
+    height: 100%;
+    width: 30%;
+    
+}
+.ui-TopLeft-leftTitle > h1 {
+    font-size: 20px;
+}
+.ui-TopLeft-leftTitle > p{
+    font-size: 16px;
+}
+.ui-TopLeft-ct {
+    position: relative;
+    margin-left: 35%;
+    height: 100%;
+}
