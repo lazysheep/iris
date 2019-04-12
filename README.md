@@ -8,6 +8,7 @@
 * 具体示例代码见demo文件夹
 * 业务逻辑见demo/config/main.json
 * 初始化state数据与路由默认补全配置见demo/config/globe.js
+* 以下复制main.json内容
 ```json
 {
     "type": "ui/Page",
